@@ -8,9 +8,9 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="200919E5-1577-40BD-9B7A-A6BB158B6B1F/f:app.config" caret="0" fromTop="0" />
       <File id="200919E5-1577-40BD-9B7A-A6BB158B6B1F/f:FizzBuzz.cs" caret="321" fromTop="14" />
       <File id="8B355A41-4B88-435F-B5A7-E6A8E0DAFA4A/f:FizzBuzzTests.cs" caret="325" fromTop="13" />
+      <File id="200919E5-1577-40BD-9B7A-A6BB158B6B1F/f:app.config" caret="264" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
       <File id="8B355A41-4B88-435F-B5A7-E6A8E0DAFA4A/f:FizzBuzzTests.cs" caret="339" fromTop="13" />
@@ -21,6 +21,8 @@
       <File id="8B355A41-4B88-435F-B5A7-E6A8E0DAFA4A/f:FizzBuzzTests.cs" caret="682" fromTop="30" />
       <File id="200919E5-1577-40BD-9B7A-A6BB158B6B1F/f:FizzBuzz.cs" caret="433" fromTop="15" />
       <File id="200919E5-1577-40BD-9B7A-A6BB158B6B1F/f:FizzBuzz.cs" caret="383" fromTop="16" />
+      <File id="200919E5-1577-40BD-9B7A-A6BB158B6B1F/f:app.config" caret="0" fromTop="0" />
+      <File id="200919E5-1577-40BD-9B7A-A6BB158B6B1F/f:app.config" caret="217" fromTop="6" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

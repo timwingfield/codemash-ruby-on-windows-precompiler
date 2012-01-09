@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.Test.dll" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-01-09" time="17:33:16">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.5448" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz" machine-name="WINDOWS" user="Michael" user-domain="WINDOWS" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.Test.dll" executed="True" result="Success" success="True" time="0.708" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="FizzBuzz" executed="True" result="Success" success="True" time="0.632" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.589" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="FizzBuzzTests" executed="True" result="Success" success="True" time="0.554" asserts="0">
+                <results>
+                  <test-case name="FizzBuzz.Test.FizzBuzzTests.when_entering_a_multiple_of_3" executed="True" result="Success" success="True" time="0.467" asserts="0" />
+                  <test-case name="FizzBuzz.Test.FizzBuzzTests.when_entering_a_multiple_of_3_and_5" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="FizzBuzz.Test.FizzBuzzTests.when_entering_a_multiple_of_5" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

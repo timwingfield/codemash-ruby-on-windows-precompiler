@@ -1,0 +1,12 @@
+c:\users\michael\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+c:\users\michael\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+c:\users\michael\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+c:\users\michael\documents\visual studio 2010\Projects\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb

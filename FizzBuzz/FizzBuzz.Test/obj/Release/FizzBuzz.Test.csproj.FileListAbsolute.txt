@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\FizzBuzz.Test.dll
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\FizzBuzz.Test.pdb
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\FizzBuzz.exe
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\FluentAssertions.dll
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\nunit.framework.dll
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\nunit.mocks.dll
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\pnunit.framework.dll
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\FizzBuzz.pdb
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\FluentAssertions.pdb
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\FluentAssertions.xml
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\bin\Release\nunit.framework.xml
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\obj\Release\FizzBuzz.Test.dll
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz.Test\obj\Release\FizzBuzz.Test.pdb

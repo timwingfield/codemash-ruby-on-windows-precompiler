@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\bin\Release\FizzBuzz.exe.config
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\bin\Release\FizzBuzz.exe
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\bin\Release\FizzBuzz.pdb
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\obj\x86\Release\FizzBuzz.exe
+C:\Users\Michael\Documents\Code\codemash-ruby-on-windows-precompiler\FizzBuzz\FizzBuzz\obj\x86\Release\FizzBuzz.pdb
