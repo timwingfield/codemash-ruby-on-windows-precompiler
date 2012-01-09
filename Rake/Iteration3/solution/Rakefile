@@ -1,0 +1,55 @@
+# This solution works, but is not the only working solution.
+# Feel free to do a better job.
+
+task :default => [:rename_images, :copy_to_staging, :copy_to_production]
+
+desc 'Rename the images'
+task :rename_images, [:extension] do |t, args|
+	args.with_defaults(:extension => 'jpg')
+
+	# get the path to the images
+	path = File.join("images", "*.#{args.extension}")
+	
+	# get the files
+	files = Dir.glob(path)
+	
+	files.each do |file|
+		new_name = ""
+		
+		# split words on capital letter
+		words = File.basename(file).scan(/[A-Z][a-z]+/)
+		
+		# remove capital letters, concatenate, and add the _ for each word
+		words.each { |word|	new_name += "#{word.downcase}_" }
+		
+		# remove trailing _ and readd the file extension
+		new_name = File.join(File.dirname(file), new_name[0...-1] + File.extname(file))
+		
+		# rename the files
+		File.rename(file, new_name)
+	end
+	
+	p 'File Rename Completed'
+end
+
+task :copy_to_staging do
+	# get the path to the images
+	path = File.join("images", "*_*")
+	
+	# get the files
+	files = Dir.glob(path)
+	
+	# copy the files
+	files.each{ |file| cp file, File.join('staging', File.basename(file)) }
+end
+
+task :copy_to_production do
+	# get the path to the images
+	path = File.join("staging", "*")
+	
+	# get the files
+	files = Dir.glob(path)
+	
+	# copy the files
+	files.each{ |file| cp file, File.join('production', File.basename(file)) }
+end
