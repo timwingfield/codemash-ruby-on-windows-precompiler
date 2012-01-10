@@ -1,5 +1,5 @@
 Given /^I am on google\.com$/ do
-  visit('/')
+  visit 'http://google.com'
 end
 
 When /^I enter "([^"]*)"$/ do |term|
