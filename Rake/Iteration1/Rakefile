@@ -1,0 +1,3 @@
+task :hello_world do
+	p "hello world"
+end
